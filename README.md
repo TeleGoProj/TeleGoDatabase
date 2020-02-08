@@ -1,2 +1,0 @@
-# TeleGoDatabase
-Database scripts
