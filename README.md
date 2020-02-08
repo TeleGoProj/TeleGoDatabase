@@ -1,0 +1,2 @@
+# TeleGoDatabase
+Database scripts
